@@ -1,0 +1,14 @@
+Záverečný projekt
+
+STRUKTURA DATABÁZE
+1) tab card - primární klíč: card_id
+   tab disp - primární klíč: disp_id
+   tab order - primární klíč: order_id
+   tab trans - primární klíč: trans_id
+   tab loan - primární klíč: loan_id
+   tab client - primární klíč: client_id
+   tab account - primární klíč: account_id
+   tab district - primární klíč: district_id
+
+2) tabulky majú vztahy 1-n
+  - v jednej tabulke je cizí klíč na primární klič v 2. tab.
