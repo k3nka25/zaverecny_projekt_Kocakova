@@ -6,7 +6,7 @@ Hlavné zistenia:
 
    2)  Priemerná cena bytu pre každú dispozíciu bytu
                     Dispozice bytu	Priemerná cena bytu v kč
-                        	4+kk	        26000.0
+                          4+kk	        26000.0
                           3+kk	        21783.0
                           3+1	          18112.0
                           4+1	          17300.0
